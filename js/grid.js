@@ -19,15 +19,23 @@ $(document).ready(function(){
 	// }
 	// xmlhttp.open("GET", url, true);
 	// xmlhttp.send();
+	
+	for(var i = 1; i < 40; i++){
+		$('.page').append('<div class="row"></div>');
+		for(var j = 0; j < i; j++){
+			$('.row:last-of-type').append('<div class="col-'+i+'"></div>');
+			var c = Math.floor(255*j/(i-1));
+			console.log(c);
+			var color = 'rgb('+c+","+c+","+c+')'
+			$('[class^=col-]:last-of-type').css('background-color', color);
+		}
+	}
+
 	setGrid();
-	$('body').click(function(){
+	
+	$(window).resize(function(){
 		setGrid();
 	});
-	
-	// $(window).resize(function(){
-	// 	setGrid();
-	// });
-
 });
 
 var configObj;
@@ -40,51 +48,15 @@ function setGrid(){
 	// var smin = config.smin;
 	// var mmin = config.mmin;
 	// var lmin = config.lmin;
-	var col = 3;
+	var col = 12;
 	var gutter = 30;
 	var maxwidth = '1000px';
 
 	$('[class^=col-]').each(function(){
-		var width = $(this).parent().width();
-		// console.log(width + ", " +  parseInt($(this).attr('class').substring($(this).attr('class').indexOf('-') + 1)) + "," + width / parseInt($(this).attr('class').substring($(this).attr('class').indexOf('-') + 1)));
 		$(this).css('width',
-			Math.floor((width + gutter) / parseInt($(this).attr('class').substring($(this).attr('class').indexOf('-') + 1))) + 
-			- gutter
-			// +'px'
+			(($(this).parent().width() + gutter) / parseInt($(this).attr('class').substring($(this).attr('class').indexOf('-') + 1))) - gutter
 		);
-		// $(this).css('background-color','red');
-		// console.log('calc(100%/' + $(this).attr('class').substring($(this).attr('class').indexOf('-') + 1) +
-		// 	'+' + gutter + '/' + $(this).attr('class').substring($(this).attr('class').indexOf('-') + 1) + 
-		// 	'-' + gutter + ')');
+		var hue = 'rgb(' + (Math.floor((256)*Math.random())) + ',' + (Math.floor((256)*Math.random())) + ',' + (Math.floor((256)*Math.random())) + ')';
+         // $(this).css("background-color", hue);
 	});
-
-	// console.log(columns);
-	// for (i = 0; i < columns.length; i++) {
-	// 	var parentWidth = columns[i].parentNode.clientWidth;
-	// 	// columns[i].style.width = 
-	// 	// 	'calc(100%/' + columns[i].className.substring(columns[i].className.indexOf('-') + 1) +
-	// 		// '+' + gutter + '/' + columns[i].className.substring(columns[i].className.indexOf('-') + 1) + 
-	// 		// '-' + gutter + ')';
-	// 	var frac = parseInt(columns[i].className.substring(columns[i].className.indexOf('-') + 1));
-	// 	var width = parentWidth / frac + gutter / frac - gutter;
-	// 	columns[i].style.width = width + 'px';
-	// 	// console.log(columns[i].className + ', ' + width + 'px');
-	// 	// columns[i].style.backgroundColor = 'red';
-	// 	// console.log(width + 'px');
-	// 		// 'calc(100%/' + columns[i].className.substring(columns[i].className.indexOf('-') + 1) +
-	// 		// '+' + gutter + '/' + columns[i].className.substring(columns[i].className.indexOf('-') + 1) + 
-	// 		// '-' + gutter + ')'
-	// 	// );
-	// }
-
-	// var maincolumns = $('.page>.row>[class^=col-]');
-
-	// for (i = 0; i < maincolumns.length; i++) {
-	// 	var parentWidth = maincolumns[i].parentNode.clientWidth;
-	// 	var frac = parseInt(maincolumns[i].className.substring(maincolumns[i].className.indexOf('-') + 1));
-	// 	var width = parentWidth / frac - gutter;
-	// 	maincolumns[i].style.width = width + 'px';
-	// 	maincolumns[i].style.backgroundColor = 'red';
-	// 	// console.log(columns[i].className + ', ' + width + 'px');
-	// }
 }
