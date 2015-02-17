@@ -1,0 +1,10 @@
+{
+	"columns"	: 12,
+	
+	"maxwidth"	: "1000px",
+	"gutter"	: "30px",
+	
+	"smin"		: "480px",
+	"mmin"		: "768px",
+	"lmin"		: "1024px"
+}

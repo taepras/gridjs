@@ -1,0 +1,1158 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"border-right",
+				"border-bottom-right-radius"
+			],
+			[
+				"background-",
+				"background-attachment"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"med",
+				"media"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"backg-",
+				"background-image"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"cx",
+				"cx"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"das",
+				"dashboard_items"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"read",
+				"readData"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"co",
+				"counter-increment"
+			],
+			[
+				"tra",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"im",
+				"imgbox"
+			],
+			[
+				"i",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 181,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php echo $this->… ?>"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/tools/demo.html",
+		"/D/Projects/tools/grid.js",
+		"/D/Projects/tools/config.json",
+		"/D/Projects/jwc7/js/jwc7register_quick.js",
+		"/D/Projects/jwc7/soon.html",
+		"/D/Projects/jwc7/fonts/csprajad.css",
+		"/D/Projects/jwc7/fonts/wdb_bangna.css",
+		"/D/Projects/jwc7/index.mustache",
+		"/D/Projects/konnec/js/konnec.js",
+		"/D/Projects/konnec/css/konnec.css",
+		"/D/Projects/konnec/index.html",
+		"/D/Projects/jwc7/js/jquery.downCount.js",
+		"/D/Projects/jwc7/js/downCount.jquery.json",
+		"/D/Projects/konnec/js/bootstrap.js",
+		"/D/Projects/konnec/css/bootstrap.css",
+		"/D/Projects/konnec/finished.html",
+		"/C/Users/aurum_000/Desktop/jab.txt",
+		"/D/Projects/konnec/fonts/boon.css",
+		"/D/Projects/konnec/fonts/dsn_yaowarat.css",
+		"/D/Projects/konnec/index.hml",
+		"/D/Projects/stsmk/system/views/static_pages/index.mustache",
+		"/D/Projects/stsmk/js/chamchurigames39.js",
+		"/D/Projects/stsmk/system/views/partials/medal_table.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/certificate_print.mustache",
+		"/D/Projects/stsmk/bootstrap-3.1.1/less/chamchurigames39.less",
+		"/D/Projects/stsmk/system/modules/Silphakorn/Silphakorn.php",
+		"/D/Projects/stsmk/system/.syslog",
+		"/D/Projects/stsmk/system/views/static_pages/schedule.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_badminton.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_basketball.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_football.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_hockey.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_petanque.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_sepak.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_swim.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_tennis.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tmp_volleyball.mustache",
+		"/D/Projects/stsmk/index.php",
+		"/D/Projects/stsmk/system/views/static_pages/downloads.mustache",
+		"/D/Projects/stsmk/certificate_print.html",
+		"/D/Projects/stsmk/system/views/static_pages/book.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/result2.mustache",
+		"/D/Projects/stsmk/system/modules/Certificate/Certificate.php",
+		"/D/Projects/stsmk/system/views/static_pages/certificate.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tr/tmp_volleyball.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tr/tmp_tennis.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tr/tmp_swim.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tr/tmp_petanque.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tr/tmp_hockey.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tr/tmp_football.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tr/tmp_basketball.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/tr/tmp_badminton.mustache",
+		"/D/Projects/stsmk/system/services/Views.php",
+		"/D/Projects/stsmk/system/modules/StaticPages/StaticPages.php",
+		"/D/Projects/stsmk/system/views/tmp_result/swimmimg.mustache",
+		"/D/Projects/stsmk/system/modules/Gallery/Gallery.php",
+		"/D/Projects/stsmk/system/views/gallery/display_image.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/gallery.mustache",
+		"/D/Projects/stsmk/system/views/partials/page_navigation.mustache",
+		"/D/Projects/stsmk/system/modules/Match/Match.php",
+		"/D/Projects/stsmk/system/.db/.module.list",
+		"/D/Projects/stsmk/system/views/static_pages/portal.mustache",
+		"/D/Projects/stsmk/system/modules/Portal/Portal.php",
+		"/D/Projects/stsmk/vendor/mustache/mustache/test/Mustache/Test/Functional/HigherOrderSectionsTest.php",
+		"/D/Projects/stsmk/system/views/static_pages/medals.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/sport.mustache",
+		"/D/Projects/stsmk/system/modules/NewsContent/NewsContent.php",
+		"/D/Projects/stsmk/system/modules/Dashboard/Dashboard.php",
+		"/D/Projects/stsmk/system/views/users/dashboard.mustache",
+		"/D/Projects/stsmk/system/modules/Dashboard/DashboardProvider.php",
+		"/D/Projects/stsmk/system/modules/Portal/PortalProvider.php",
+		"/D/Projects/stsmk/system/views/partials/matchinfo/submit2.mustache",
+		"/D/Projects/stsmk/system/views/match/result_edit_sepak.mustache",
+		"/D/Projects/stsmk/system/views/partials/matchinfo/submit.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_swimming.mustache",
+		"/D/Projects/stsmk/system/modules/Index/IndexDataProvider.php",
+		"/D/Projects/stsmk/system/registry.php",
+		"/D/Projects/stsmk/system/modules/Index/Index.php",
+		"/D/Projects/stsmk/system/init.php",
+		"/D/Projects/stsmk/system/main.php",
+		"/D/Projects/stsmk/system/views/gallery/display_gallery.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/sports.mustache",
+		"/D/Projects/stsmk/system/libs/ModuleAdapter.php",
+		"/D/Projects/stsmk/system/models/PermissionModel.php",
+		"/D/Projects/stsmk/_upload_path_config.php",
+		"/D/Projects/stsmk/system/services/CKFinderIntegration.php",
+		"/D/Projects/stsmk/ckeditor/ckfinder/config.php",
+		"/D/Projects/stsmk/fonts/thsarabunnew.css",
+		"/D/Projects/stsmk/system/views/static_pages/certificate_print.html",
+		"/D/Projects/stsmk/system/views/partials/page_import.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/certificate4.mustache",
+		"/D/Projects/stsmk/system/views/static_pages/accommodation.mustache",
+		"/D/Projects/stsmk/js/xlsxworker1.js",
+		"/D/Projects/stsmk/js/xlsxworker2.js",
+		"/D/Projects/stsmk/js/xlsxworker.js",
+		"/D/Projects/stsmk/system/views/static_pages/certificate2.mustache",
+		"/D/Work/stsmk/cert/js-xlsx-master/index.html",
+		"/D/Work/stsmk/cert/xlsx.js-master/test.html",
+		"/D/Work/stsmk/cert/alasql-version-0.0.34/examples/d3/test02.html",
+		"/D/Work/stsmk/cert/alasql-version-0.0.34/examples/d3/test01.html",
+		"/D/Work/stsmk/cert/xlsx.js-master/xlsx.js-master/index.html",
+		"/D/Work/stsmk/cert/simple-excel-js-master/simple-excel-js-master/test/index.html",
+		"/D/Work/stsmk/cert/xlsx.js-master/xlsx.js-master/xlsx.js",
+		"/D/Work/stsmk/cert/js-xlsx-master/test.html",
+		"/D/Work/stsmk/cert/simple-excel-js-master/simple-excel-js-master/readme.md",
+		"/D/Projects/stsmk/system/views/match/result_display_athletics.mustache",
+		"/D/Projects/stsmk/system/views/match/partials/displat_medal.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_badminton_indiv.mustache",
+		"/D/Projects/stsmk/system/views/partials/matchinfo/bigresult.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_boardgame.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_golf_indiv.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_golf_team.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_petanque_shooting.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_petanque_vs.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_sepak.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_swimming.mustache",
+		"/D/Projects/stsmk/system/views/match/result_display_volleyball.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_athletics.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_badminton.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_ballroomdance.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_basketball.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_boardgame.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_golf.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_handball.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_hockey.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_petanque.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_sepak.mustache",
+		"/D/Projects/stsmk/system/views/match/match_new_softball.mustache"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\Projects\\stsmk\\system\\views\\static_pages\\",
+			"D:\\Projects\\stsmk\\system\\views\\static_pages\\tr\\",
+			"D:\\Projects\\stsmk\\system\\views\\static_page\\tr\\",
+			"D:\\Projects\\stsmk\\system\\views\\static_page\\tr",
+			"D:\\Projects\\stsmk\\system\\views\\static_page\\tmp_........?.?.?.?.?.?.?.?.?",
+			"D:\\Projects\\stsmk\\",
+			"D:\\Projects\\stsmk\\system\\modules",
+			"D:\\Projects\\stsmk",
+			"D:\\Projects\\stsmk\\system\\views\\match",
+			"D:\\Projects\\stsmk\\system\\",
+			"D:\\Projects\\stsmk\\system\\views",
+			"D:\\Projects\\stsmk\\",
+			"D:\\Projects\\stsmk\\downloads",
+			"D:\\Projects\\stsmk",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"77",
+			"838",
+			"head",
+			"btn-primary",
+			"300",
+			"step",
+			"regisf",
+			"ไซส์เสื้อ",
+			"838",
+			"center",
+			"คำถามคัดเลือก",
+			"ขอ้มูลส่วนตัว",
+			"container",
+			"logo",
+			"bootstrap",
+			"hover",
+			"=\"\"><",
+			"date",
+			"= ",
+			"เป็นโครงการสานสัมพันธ์ของนิสิตวิศวกรรมคอมพิวเตอร์",
+			"visible-sm",
+			"hover",
+			"nav",
+			"placeholer",
+			"foot",
+			"col-sm-2 col-sm-offset-3",
+			"col-sm-3 col-offset-2",
+			"z",
+			"navbar",
+			"brand",
+			"navbar-collapse",
+			"collapse",
+			"navlink",
+			"opacity",
+			"\n.",
+			"img/",
+			"../fonts/woff/",
+			"important",
+			"col-sm-5",
+			"col-sm-1",
+			">\n",
+			"table",
+			"\\(<span",
+			"[0-9]\\.?[0-9][0-9].B\\)",
+			"[0-9]\\.?[0-9][0-9].B)",
+			"}}sports/",
+			"sports/",
+			"{{/auth.edit_tmp_result}}",
+			"{{#auth.edit_tmp_result}}",
+			"</a></td>",
+			"{{#auth.edit_tmp_result}}",
+			"{{^auth.edit_tmp_result}}",
+			"</a></td>",
+			"{{>page_footer}}",
+			"</tr>",
+			"<tr valign=\"top\">",
+			"</a></td>",
+			"&nbsp;<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" /></a>&nbsp;",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..?.?,'sportscheduleresult_.\\.php\\?sch=..?.?'\\);\">",
+			"</tr>",
+			"<tr valign=\"top\">",
+			"</a></td>",
+			"&nbsp;<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" /></a>&nbsp;",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..?.?,'sportscheduleresult_.\\.php\\?sch=..?.?'\\);\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"</tr>",
+			"</a></td>",
+			"&nbsp;<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" /></a>&nbsp;",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..?.?,'sportscheduleresult_.\\.php\\?sch=..?.?'\\);\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"</tr>",
+			"<tr valign=\"top\">",
+			"</a></td>",
+			"&nbsp;<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" /></a>&nbsp;",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..?.?,'sportscheduleresult_.\\.php\\?sch=..?.?'\\);\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"<a href=\"javascript:void(0);\" onclick=\"showstudent(276,1,'01')\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"</tr>",
+			"<tr valign=\"top\">",
+			"</a></td>",
+			"&nbsp;<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" /></a>&nbsp;",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..?.?,'sportscheduleresult_.\\.php\\?sch=..?.?'\\);\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"<tr valign=\"top\">",
+			"</tr>",
+			"</a></td>",
+			"&nbsp;<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" /></a>&nbsp",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..?.?,'sportscheduleresult_.\\.php\\?sch=..?.?'\\);\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"<tr valign=\"top\">",
+			"</tr align=\"center\">",
+			"</tr>",
+			"&nbsp;<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" /></a>&nbsp;",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..?.?,'sportscheduleresult_.\\.php\\?sch=..?.?'\\);\">",
+			"<tr valign=\"top\">",
+			"</tr>",
+			"<td align=\"center\"></a>",
+			"<td></td>",
+			"</a>&nbsp;",
+			"&nbsp;<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" />",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..?.?,.,'..'\\)\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..?.?,'sportscheduleresult_.\\.php\\?sch=..?.?'\\);\">",
+			"<td><a>อัพโหลดผล &raquo;</a><br><a>กรอกผล &raquo;</a><br><a>ลบผล &raquo;</a></td>",
+			"<tr valign=\"top\">",
+			"</tr>",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(..,'sportscheduleresult_1.php\\?sch=..'\\);\">",
+			"&nbsp;>",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(..,.,'..'\\)\"",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showstudent\\(...,.,'..'\\)\"",
+			"</a>",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(...,'sportscheduleresult_1.php\\?sch=...'\\);\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(...,'sportscheduleresult_1.php\\?sch=...');\">",
+			"<a href=\"javascript:void\\(0\\);\" onclick=\"showscheduleresult\\(.{3},'sportscheduleresult_1.php?sch=.{3}');\">",
+			"<td></td>",
+			"<img src=\"./images/goldsmall.png\" width=\"24\" height=\"24\" />",
+			"<img src=\"./images/sportman.png\" width=\"16\" height=\"16\" /></a>&nbsp;",
+			"เวลา",
+			">",
+			"get_g",
+			"select_db",
+			"Portal",
+			"desc",
+			"170",
+			"match/new",
+			"IndexDataProvider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"btn-design",
+			"goto",
+			"hidden-xs",
+			"col-sm-3 col-sm-offset-2",
+			"col-sm-2 col-offset-3",
+			"btnlink",
+			"../img/",
+			"",
+			"col-sm-4",
+			"col-sm-2",
+			"<span",
+			"",
+			"}}tmp_",
+			"tmp_",
+			"{{/auth.permission.edit_tmp_result}}",
+			"{{#auth.permission.edit_tmp_result}}",
+			"</td>",
+			"{{#auth.permission.edit_tmp_result}}",
+			"{{#auth.edit_tmp_result}}",
+			"</td>",
+			"{{>page_footer}}{{>tmp_result_js}}",
+			"{{^auth.edit_tmp_result}}<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"<tr data-id=\"{{#get_tr_id}}1{{/get_tr_id}}\">",
+			"</td>",
+			"",
+			"{{^auth.edit_tmp_result}}<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"<tr data-id=\"{{#get_tr_id}}1{{/get_tr_id}}\">",
+			"</td>",
+			"",
+			"{{^auth.edit_tmp_result}}<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"</td>",
+			"",
+			"{{^auth.edit_tmp_result}}<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"<tr data-id=\"{{#get_tr_id}}1{{/get_tr_id}}\">",
+			"</td>",
+			"",
+			"{{^auth.edit_tmp_result}}<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"<tr data-id=\"{{#get_tr_id}}1{{/get_tr_id}}\">",
+			"</td>",
+			"",
+			"<tr data-id=\"{{#get_tr_id}}1{{/get_tr_id}}\">",
+			"{{^auth.edit_tmp_result}}<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"</td>",
+			"",
+			"<tr data-id=\"{{#get_tr_id}}1{{/get_tr_id}}\">",
+			"{{^auth.edit_tmp_result}}<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"",
+			"<tr data-id=\"{{#get_tr_id}}1{{/get_tr_id}}\">",
+			"{{^auth.edit_tmp_result}}<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"<td>",
+			"<td>-</td>",
+			"",
+			"<td><a class=\"upl\">อัพโหลดผล &raquo;</a><br><a class=\"inp\">กรอกผล &raquo;</a><br><a class=\"del\">ลบผล &raquo;</a></td>",
+			"<tr data-id=\"{{#get_tr_id}}1{{/get_tr_id}}\">",
+			"{{^auth.edit_tmp_result}}<td><a>อัพโหลดผล &raquo;</a><br><a>กรอกผล &raquo;</a><br><a>ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}</tr>",
+			"{{^auth.edit_tmp_result}}<td><a>อัพโหลดผล &raquo;</a><br><a>กรอกผล &raquo;</a><br><a>ลบผล &raquo;</a></td>{{/auth.edit_tmp_result}}",
+			"",
+			"<td>-</td>",
+			"<img class=\"medal\" src=\"{{base}}img/gold.svg\"/>",
+			"",
+			"</a>",
+			"name_th",
+			"B)</a",
+			"(<span",
+			"</span></a>",
+			"\"/file",
+			"\"{{base}}file",
+			"</h4> <span class=\"glyphicon glyphicon-download-alt\">",
+			"<button class=\"btn btn-primary\" onclick=\"submit({{sport_id}});\">สร้างรายการแข่งขัน</button>",
+			"DateTimeOriginal",
+			"team_vs",
+			"team_8tracks",
+			"team_list",
+			"select_team",
+			">{{>matchinput/select_team}}",
+			"-",
+			"72",
+			"72\n72",
+			"<td class=\"hidden-xs\"></td>",
+			"4",
+			"เลือกทีม",
+			">1/",
+			"download_file/",
+			"</h4></a>",
+			"<a><h4>",
+			"<a><h4></a>",
+			"<br><h4>",
+			"<br><h4",
+			"",
+			"<p>&nbsp;&nbsp;&nbsp;&nbsp;",
+			"<td></td><td>",
+			"กรุณาเลือกโรงเรียน",
+			"",
+			"<button type=\"button\" class=\"btn btn-danger\">ลบรายการ</button>",
+			"<button type=\"submit\" class=\"btn btn-primary\">บันทึกผลการแข่งขัน</button>",
+			"<button type=\"submit\" class=\"btn btn-primary\">สร้างรายการแข่งขัน</button>&nbsp;",
+			"",
+			"ผล",
+			"นายสมมติ ไม่ทราบนามสกุล",
+			"0",
+			"-",
+			"นายสมมติ ไม่ทราบนามสกุล",
+			"0",
+			"{{>matchinput/select_athlete}}",
+			"-",
+			"0",
+			"นายสมมติ ไม่ทราบนามสกุล",
+			"{{>matchinput/select_athlete}}",
+			"นายสมมติ ไม่ทราบนามสกุล",
+			"-",
+			"0",
+			"-",
+			"0",
+			"-",
+			"0",
+			"-",
+			"0",
+			"-",
+			"0",
+			"-",
+			"0",
+			"{{>matchinput/score}}",
+			"{{>matchinput/select_athlete}}",
+			"</option>",
+			"<option>",
+			"",
+			"ฟุตบอล",
+			"football"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								181,
+								181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"soon",
+				"soon.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"bootstr",
+				"js/bootstrap.js"
+			],
+			[
+				"boot",
+				"css/bootstrap.css"
+			],
+			[
+				"dsn",
+				"fonts/dsn_yaowarat.css"
+			],
+			[
+				"boon",
+				"fonts/boon.css"
+			],
+			[
+				"analytic",
+				"stsmk/system/views/partials/analytics.mustache"
+			],
+			[
+				"meda",
+				"stsmk/system/views/partials/medal_table.mustache"
+			],
+			[
+				"downl",
+				"stsmk/system/views/static_pages/downloads.mustache"
+			],
+			[
+				"sche",
+				"stsmk/system/views/static_pages/schedule.mustache"
+			],
+			[
+				"index",
+				"stsmk/system/views/static_pages/index.mustache"
+			],
+			[
+				"sch",
+				"/D/Projects/stsmk/system/views/static_pages/schedule.mustache"
+			],
+			[
+				"sched",
+				"stsmk/system/views/static_pages/schedule.mustache"
+			],
+			[
+				".syslo",
+				"stsmk/system/.syslog"
+			],
+			[
+				"silp",
+				"stsmk/system/modules/Silphakorn/Silphakorn.php"
+			],
+			[
+				"ch",
+				"stsmk/bootstrap-3.1.1/less/chamchurigames39.less"
+			],
+			[
+				"print",
+				"stsmk/system/views/static_pages/certificate_print.mustache"
+			],
+			[
+				"medal",
+				"stsmk/system/views/partials/medal_table.mustache"
+			],
+			[
+				"cham",
+				"stsmk/js/chamchurigames39.js"
+			],
+			[
+				"result",
+				"stsmk/system/views/static_pages/result2.mustache"
+			],
+			[
+				"book",
+				"stsmk/system/views/static_pages/book.mustache"
+			],
+			[
+				"cert",
+				"stsmk/system/views/static_pages/certificate_print.mustache"
+			],
+			[
+				"certi",
+				"stsmk/system/views/static_pages/certificate.mustache"
+			],
+			[
+				"certif",
+				"stsmk/system/views/static_pages/certificate.mustache"
+			],
+			[
+				"sepak",
+				"stsmk/system/views/static_pages/tmp_sepak.mustache"
+			],
+			[
+				"download",
+				"stsmk/system/views/static_pages/downloads.mustache"
+			],
+			[
+				"sc",
+				"stsmk/system/views/static_pages/schedule.mustache"
+			],
+			[
+				"gall",
+				"stsmk/system/modules/Gallery/Gallery.php"
+			],
+			[
+				"page_n",
+				"stsmk/system/views/partials/page_navigation.mustache"
+			],
+			[
+				"schedule",
+				"stsmk/system/views/static_pages/schedule.mustache"
+			],
+			[
+				"display_",
+				"stsmk/system/views/gallery/display_image.mustache"
+			],
+			[
+				"match.",
+				"stsmk/system/modules/Match/Match.php"
+			],
+			[
+				"order",
+				"stsmk/vendor/mustache/mustache/test/Mustache/Test/Functional/HigherOrderSectionsTest.php"
+			],
+			[
+				"sport",
+				"stsmk/system/views/static_pages/sport.mustache"
+			],
+			[
+				"port",
+				"stsmk/system/modules/Portal/Portal.php"
+			],
+			[
+				"page_na",
+				"stsmk/system/views/partials/page_navigation.mustache"
+			],
+			[
+				"in",
+				"stsmk/system/views/static_pages/index.mustache"
+			],
+			[
+				"displa",
+				"stsmk/system/views/gallery/display_image.mustache"
+			],
+			[
+				"galler",
+				"stsmk/system/views/static_pages/gallery.mustache"
+			],
+			[
+				"das",
+				"stsmk/system/views/users/dashboard.mustache"
+			],
+			[
+				"dash",
+				"stsmk/system/modules/Dashboard/Dashboard.php"
+			],
+			[
+				"submit2",
+				"stsmk/system/views/partials/matchinfo/submit2.mustache"
+			],
+			[
+				"res",
+				"stsmk/system/views/match/result_edit_sepak.mustache"
+			],
+			[
+				"subm",
+				"stsmk/system/views/partials/matchinfo/submit.mustache"
+			],
+			[
+				"match_n",
+				"stsmk/system/views/match/match_new_swimming.mustache"
+			],
+			[
+				"regis",
+				"stsmk/system/registry.php"
+			],
+			[
+				"ini",
+				"stsmk/system/init.php"
+			],
+			[
+				"main.",
+				"stsmk/system/main.php"
+			],
+			[
+				"news",
+				"stsmk/system/modules/NewsContent/NewsContent.php"
+			],
+			[
+				"indexda",
+				"stsmk/system/modules/Index/IndexDataProvider.php"
+			],
+			[
+				"modu",
+				"stsmk/system/libs/ModuleAdapter.php"
+			],
+			[
+				"da",
+				"stsmk/system/modules/Dashboard/Dashboard.php"
+			],
+			[
+				"permi",
+				"stsmk/system/models/PermissionModel.php"
+			],
+			[
+				"displ",
+				"stsmk/system/views/gallery/display_gallery.mustache"
+			],
+			[
+				"sports",
+				"stsmk/system/views/static_pages/sports.mustache"
+			],
+			[
+				"module",
+				"stsmk/system/libs/ModuleAdapter.php"
+			],
+			[
+				"_upload",
+				"stsmk/_upload_path_config.php"
+			],
+			[
+				"thsa",
+				"stsmk/fonts/thsarabunnew.css"
+			],
+			[
+				"page_im",
+				"stsmk/system/views/partials/page_import.mustache"
+			],
+			[
+				"cha",
+				"stsmk/bootstrap-3.1.1/less/chamchurigames39.less"
+			],
+			[
+				"remark",
+				"stsmk/system/views/partials/matchinput/remark.mustache"
+			],
+			[
+				"matchinfo/en",
+				"stsmk/system/views/partials/matchinfo/entry.mustache"
+			],
+			[
+				"match_new_t",
+				"stsmk/system/views/match/match_new_tennis.mustache"
+			],
+			[
+				"navig",
+				"stsmk/system/views/partials/page_navigation.mustache"
+			],
+			[
+				"import",
+				"stsmk/system/views/gallery/import_image.mustache"
+			],
+			[
+				"user.",
+				"stsmk/system/modules/User/User.php"
+			],
+			[
+				"medals",
+				"stsmk/system/views/static_pages/medals.mustache"
+			],
+			[
+				"va",
+				"stsmk/bootstrap-3.1.1/less/variables.less"
+			],
+			[
+				"result_d",
+				"stsmk/system/views/static_pages/tmp/result_display.mustache"
+			],
+			[
+				"result_edit_te",
+				"stsmk/system/views/static_pages/tmp/result_edit_tennis.mustache"
+			],
+			[
+				"result_e",
+				"stsmk/system/views/static_pages/tmp/result_edit.mustache"
+			],
+			[
+				"match_new",
+				"stsmk/system/views/static_pages/tmp/match_new.mustache"
+			],
+			[
+				"matchinfo",
+				"stsmk/system/views/partials/matchinfo/display.mustache"
+			],
+			[
+				"edit",
+				"stsmk/system/views/users/edit.mustache"
+			],
+			[
+				"entry",
+				"stsmk/system/views/partials/matchinfo/entry.mustache"
+			],
+			[
+				"display",
+				"stsmk/system/views/partials/matchinfo/display.mustache"
+			],
+			[
+				"result_",
+				"stsmk/system/views/static_pages/tmp/result_edit.mustache"
+			],
+			[
+				"match",
+				"stsmk/system/views/static_pages/tmp/match_new_football.mustache"
+			],
+			[
+				"match_",
+				"stsmk/system/views/static_pages/tmp/match_new.mustache"
+			],
+			[
+				"gal",
+				"stsmk/system/modules/Gallery/Gallery.php"
+			],
+			[
+				"dis",
+				"stsmk/system/views/gallery/display_gallery.mustache"
+			],
+			[
+				"image",
+				"stsmk/system/views/gallery/display_image.mustache"
+			],
+			[
+				"cha.less",
+				"stsmk/bootstrap-3.1.1/less/chamchurigames39.less"
+			],
+			[
+				"gallery",
+				"stsmk/system/modules/Gallery/Gallery.php"
+			],
+			[
+				"var",
+				"stsmk/bootstrap-3.1.1/less/variables.less"
+			],
+			[
+				"nav",
+				"stsmk/system/views/partials/page_navigation.mustache"
+			],
+			[
+				".mus",
+				"stsmk/system/views/static_pages/history.mustache"
+			],
+			[
+				"page_",
+				"stsmk/system/views/partials/page_import.mustache"
+			],
+			[
+				"paheader",
+				"stsmk/system/views/partials/page_header.mustache"
+			],
+			[
+				"vari",
+				"stsmk/bootstrap-3.1.1/less/variables.less"
+			],
+			[
+				"impo",
+				"stsmk/system/views/partials/page_import.mustache"
+			],
+			[
+				"sp",
+				"stsmk/system/views/partials/sponsors.mustache"
+			],
+			[
+				"top",
+				"stsmk/system/views/partials/sponsors_top.mustache"
+			],
+			[
+				"spon",
+				"stsmk/system/views/partials/sponsors_index.mustache"
+			],
+			[
+				"spo",
+				"stsmk/system/views/static_pages/sponsors.mustache"
+			],
+			[
+				"user_",
+				"stsmk/system/views/partials/user_header.mustache"
+			],
+			[
+				"user",
+				"stsmk/system/models/UserModel.php"
+			],
+			[
+				"rout",
+				"stsmk/vendor/mikecao/flight/flight/net/Route.php"
+			],
+			[
+				"varia",
+				"stsmk/bootstrap-3.1.1/less/variables.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+	<head>
+		<title>grid.js test</title>
+		<link rel="stylesheet" type="text/css" href="css/grid.css">
+		<script src="js/jquery-1.11.1.min.js"></script>
+		<script src="js/grid.js"></script>
+	</head>
+	<body>
+		<div class="page">
+			<div class="row">
+				<div class="col-1">
+					test col1-1
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-2">
+					test
+				</div>
+				<div class="col-2">
+					test
+					<div class="row">
+						<div class="col-1">
+							test nesting
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-2">
+							yay
+						</div>
+						<div class="col-2">
+							it works!
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-3">
+							yay
+							<div class="row">
+								<div class="col-2">
+									yay
+								</div>
+								<div class="col-2">
+									yay
+								</div>
+							</div>
+						</div>
+						<div class="col-3">
+							yay
+							<div class="row">
+								<div class="col-1">
+									yay
+								</div>
+							</div>
+						</div>
+						<div class="col-3">
+							yay
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-3">
+					test
+					<div class="row">
+						<div class="col-1">
+							test nesting
+						</div>
+					</div>
+					
+				</div>
+				<div class="col-3">
+					<div class="row">
+						<div class="col-2">
+							yay
+						</div>
+						<div class="col-2">
+							it works!
+						</div>
+					</div>
+				</div>
+				<div class="col-3">
+					<div class="row">
+						<div class="col-3">
+							yay
+						</div>
+						<div class="col-3">
+							it works!
+						</div>
+						<div class="col-3">
+							it works!
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
